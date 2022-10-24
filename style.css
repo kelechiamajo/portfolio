@@ -1,0 +1,88 @@
+
+*{
+    padding: 0;
+    margin: 0
+
+}
+.phead{
+    background-color: gray;
+    height:83px;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+.card1 , .card2 , .card3{
+    height:283px;
+    width: 40%;
+    border-radius: 21px;
+    box-shadow:1px 2px 3px gray;
+    margin-top: 43px;
+    margin-left:123px;
+}
+.card1 h1 , .card2 h1 , .card3 h1{
+text-align: center;
+padding-top: 32px;
+}
+.card1 h4 , .card2 h4 , .card3 h4{
+    text-align: center;
+    padding-top: 12px;
+    }
+    .card1 a , .card2 a, .card3 a{
+   
+        padding-top: 12px;
+ }
+
+ p{
+    text-align: center;
+    width: 80%;
+    margin:auto;
+    padding-top: 23px;
+ }
+ span{
+    display:flex;
+    justify-content:center;
+ }
+
+ .bio{
+   margin: 136px 0px;
+    display: flex;
+ }
+
+ .bioleft{
+  
+    height: 444px;
+    flex: 1;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+ .bioright{
+  
+    height: 444px;
+    flex: 1;
+    display:flex;
+    flex-direction: column;
+justify-content: center;
+align-items: center
+ }
+ .dam{
+    width: 89%;
+ }
+ .contact{
+    text-align: center;
+    margin: 53px
+ }
+ .bioleft img{
+    width:80%;
+    height: 393px;
+ }
+ .op {
+  height: 133px;
+    width:80%;
+    margin: auto;
+
+ }
+
+ .op h1{
+font-size: 22px;
+ }
